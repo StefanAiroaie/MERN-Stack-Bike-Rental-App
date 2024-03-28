@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Gravel Grinder",
+    "number_of_gears": 22,
+    "size": "L",
+    "gender": "unisex",
+    "max_speed": "30 km/h",
+    "detail1": "Carbon fiber frame",
+    "detail2": "Wide tires for off-road",
+    "detail3": "Drop handlebars for multiple hand positions",
+    "imageUrl": "https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Cruiser Deluxe",
+    "number_of_gears": 3,
+    "size": "M",
+    "gender": "women",
+    "max_speed": "20 km/h",
+    "detail1": "Classic design with a modern twist",
+    "detail2": "Comfortable saddle with springs",
+    "detail3": "Front basket for convenience",
+    "imageUrl": "https://images.pexels.com/photos/127016/pexels-photo-127016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Speed Demon",
+    "number_of_gears": 24,
+    "size": "L",
+    "gender": "men",
+    "max_speed": "45 km/h",
+    "detail1": "Aerodynamic frame",
+    "detail2": "Integrated digital speedometer",
+    "detail3": "Disc brakes for quick stops",
+    "imageUrl": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Urban Explorer",
+    "number_of_gears": 8,
+    "size": "M",
+    "gender": "unisex",
+    "max_speed": "25 km/h",
+    "detail1": "Sleek design for city streets",
+    "detail2": "Built-in rear rack for cargo",
+    "detail3": "Fenders to keep you clean in rainy weather",
+    "imageUrl": "https://images.pexels.com/photos/1595483/pexels-photo-1595483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Adventure Seeker",
+    "number_of_gears": 30,
+    "size": "L",
+    "gender": "unisex",
+    "max_speed": "35 km/h",
+    "detail1": "Front suspension for rough terrain",
+    "detail2": "Hydraulic disc brakes for precise stopping",
+    "detail3": "Integrated GPS navigation system",
+    "imageUrl": "https://images.pexels.com/photos/1149601/pexels-photo-1149601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Family Fun Cruiser",
+    "number_of_gears": 7,
+    "size": "M",
+    "gender": "family",
+    "max_speed": "20 km/h",
+    "detail1": "Tandem seating for parent and child",
+    "detail2": "Adjustable child seat with safety harness",
+    "detail3": "Colorful decals and bells for kids' enjoyment",
+    "imageUrl": "https://images.pexels.com/photos/114297/pexels-photo-114297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Eco Commuter",
+    "number_of_gears": 5,
+    "size": "S",
+    "gender": "unisex",
+    "max_speed": "25 km/h",
+    "detail1": "Electric motor assist for effortless riding",
+    "detail2": "Detachable battery for easy charging",
+    "detail3": "LED headlight and taillight for visibility",
+    "imageUrl": "https://images.pexels.com/photos/2909095/pexels-photo-2909095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Vintage Vibes",
+    "number_of_gears": 3,
+    "size": "M",
+    "gender": "unisex",
+    "max_speed": "20 km/h",
+    "detail1": "Classic retro design",
+    "detail2": "Leather saddle and handlebar grips",
+    "detail3": "Rear cargo rack with wooden crate",
+    "imageUrl": "https://images.pexels.com/photos/255934/pexels-photo-255934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Mountain Explorer",
+    "number_of_gears": 26,
+    "size": "L",
+    "gender": "unisex",
+    "max_speed": "40 km/h",
+    "detail1": "Full suspension for extreme trails",
+    "detail2": "29-inch wheels for superior traction",
+    "detail3": "Dropper seatpost for downhill descents",
+    "imageUrl": "https://images.pexels.com/photos/815932/pexels-photo-815932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "City Chic",
+    "number_of_gears": 10,
+    "size": "S",
+    "gender": "women",
+    "max_speed": "30 km/h",
+    "detail1": "Step-through frame for easy mounting",
+    "detail2": "Color-matched fenders and chain guard",
+    "detail3": "Stylish pannier bags for storage",
+    "imageUrl": "https://images.pexels.com/photos/1616566/pexels-photo-1616566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
