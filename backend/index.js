@@ -6,7 +6,7 @@ import morgan from "morgan";
 
 import bikeRouter from "./controller/bikes.js";
 import reservationRouter from "./controller/reservations.js";
-import amountShipsrouter from "./controller/counter.js";
+import amountBikesrouter from "./controller/counter.js";
 
 await mongoose.connect(process.env.MONGODB_URI);
 
@@ -23,7 +23,7 @@ app.use(morgan("tiny"));
 app.use(cors(corsOptions));
 app.use("/bikes", bikeRouter);
 app.use("/reservations", reservationRouter);
-app.use("/counter", amountShipsrouter);
+app.use("/counter", amountBikesrouter);
 
 app.listen(PORT, () => {
   console.log(`listening on http://localhost:${PORT}`);

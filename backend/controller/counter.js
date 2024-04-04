@@ -5,11 +5,11 @@ import { Reservation } from "../models/reservation.js";
 const router = express.Router();
 
 router.get("/", async (req, res) => {
-  const amountShips = await Bike.countDocuments();
+  const amountBikes = await Bike.countDocuments();
   const amountBookings = await Reservation.countDocuments();
-  const availableShipsToday = amountShips - amountBookings;
+  const availableBikesToday = amountBikes - amountBookings;
 
-  const amount = [amountShips, amountBookings, availableShipsToday];
+  const amount = [amountBikes, amountBookings, availableBikesToday];
   res.json(amount);
 });
 

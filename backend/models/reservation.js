@@ -9,9 +9,9 @@ const reservationSchema = new Schema({
     type: Date,
     required: true,
   },
-  ship: {
+  bike: {
     type: mongoose.Types.ObjectId,
-    ref: "Ship",
+    ref: "Bike",
   },
 });
 
